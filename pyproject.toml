@@ -6,6 +6,8 @@ authors = ["yauhen1996 <getthe798@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+flake8 = "^4.0.1"
+pytest = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 
